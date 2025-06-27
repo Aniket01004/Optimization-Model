@@ -67,7 +67,7 @@ Subject to constraints:
 
 ## 📁 Files Included
 
-- `product_mix_optimization.ipynb` – Jupyter Notebook with problem setup, code, and visualization.
+- `task_4.ipynb` – Jupyter Notebook with problem setup, code, and visualization.
 - `README.md` – Project documentation.
 
 ---
@@ -89,5 +89,5 @@ Subject to constraints:
    pip install pulp matplotlib
 3. Open the notebook:
    ```bash
-   jupyter notebook product_mix_optimization.ipynb
+   jupyter notebook task_4.ipynb
    
